@@ -9,9 +9,8 @@
 
     <groupId>in.javahome</groupId>
     <artifactId>myweb</artifactId>
-    <version>8.8.6</version>
     <packaging>war</packaging>
-
+    <version>8.8.6</version>
     <name>Java Home myweb</name>
     <url>https://maven.apache.org</url>
 
